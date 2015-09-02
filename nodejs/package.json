@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-study",
+  "version": "1.0.0",
+  "description": "rabbitmq study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunghoon Kang",
+  "license": "MIT",
+  "dependencies":{
+  	"amqplib":">= 0.3.2"
+  }
+}
