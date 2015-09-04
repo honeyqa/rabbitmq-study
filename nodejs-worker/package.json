@@ -1,0 +1,15 @@
+{
+  "name": "honey-rabbitmq-worker",
+  "version": "1.0.0",
+  "description": "rabbitmq study for honeyqa project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunghoon Kang",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.3.2",
+    "mysql": "^2.9.0"
+  }
+}
