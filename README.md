@@ -8,7 +8,7 @@
 	* [Mac Standalone @ 공식 홈페이지](https://www.rabbitmq.com/install-standalone-mac.html)
 	* 설치 후
 		* Web Console 활성화
-			* `sbin\rabbitmq-plugins enable rabbitmq_management`
+			* `sbin/rabbitmq-plugins enable rabbitmq_management`
 		* Web Console 접속
 			* [http://localhost:15672](http://localhost:15672/)
 			* username : **guest**
